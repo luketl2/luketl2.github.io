@@ -1,4 +1,7 @@
 body {
-    margin: 5;
+    margin: 20;
     background: whitesmoke;
+}
+img {
+  border-radius: 8px;
 }
