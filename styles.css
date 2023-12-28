@@ -1,11 +1,6 @@
 body {
-    margin: 0;
-    padding: 0;
-    align-items: center;
-    justify-content: center;
+    margin: 20;
     background: whitesmoke;
-    display: flex;
-    height: 100vh;
 }
 .content {
     display: flex;
