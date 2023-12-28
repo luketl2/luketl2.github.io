@@ -1,6 +1,18 @@
 body {
-    margin: 20;
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    justify-content: center;
     background: whitesmoke;
+    display: flex;
+    height: 100vh;
+}
+.content {
+    display: flex;
+    align-items: center;
+}
+.text {
+    margin-right: 20px;
 }
 img {
   border-radius: 8px;
